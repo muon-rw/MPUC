@@ -1,0 +1,32 @@
+- New origin screen
+- Added Discord RPC
+- Fix cursor scale
+- Patch beds sometimes rendering standing straight up
+
+## Mod changes
+
+### Added
+- [Icy's Better Horses](https://www.curseforge.com/minecraft/mc-mods/icys-better-horses)
+- [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)
+
+### Updated
+- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric): 7.2.6 to 7.2.7
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm): 21.0.66 to 21.0.67
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective): 8.72 to 8.77
+- [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel): 1.3.0 to 1.3.1
+- [Fancy World Animations](https://www.curseforge.com/minecraft/mc-mods/fwa): 1.2.31 to 1.3.4
+- [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge): 2101.1.37 to 2101.1.38
+- [Keybind Atlas](https://www.curseforge.com/minecraft/mc-mods/keybind-atlas): 2.1.1 to 2.3.0
+- [Living Wind](https://www.curseforge.com/minecraft/mc-mods/living-wind): v1.3.6 to v1.3.8
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations): 1.12.6 to 1.12.7
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.1.2 to 0.1.3
+- [Raven's DnD Origins](https://www.curseforge.com/minecraft/mc-mods/ravens-dnd-origins): 0.1.4 to 0.2.0
+- [Reliable Remover](https://www.curseforge.com/minecraft/mc-mods/reliable-remover): 3.8.3 to 3.8.4
+- [Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill): 1.8.1 to 1.9.0
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 1.5.23.2446 to 1.5.25.2451
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 1.6.13.2216 to 1.6.15.2219
+
+### Removed
+- [Isometric Renders - Forked](https://www.curseforge.com/minecraft/mc-mods/isometric-renders-forked)
+- [Picture Mode](https://www.curseforge.com/minecraft/mc-mods/picture-mode)
+- [Power Screenshot](https://www.curseforge.com/minecraft/mc-mods/panoramic-screenshot)

@@ -1,0 +1,7 @@
+- Fixed some scaling race/class powers not showing their resource bars or keybinds when playing on a dedicated server
+
+## Mod changes
+
+### Updated
+- [FTB Teams (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge): 2101.1.11 to 2101.1.12
+- [Raven's DnD Origins](https://www.curseforge.com/minecraft/mc-mods/ravens-dnd-origins): 0.2.0 to 0.2.1

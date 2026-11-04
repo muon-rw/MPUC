@@ -21,6 +21,11 @@
       "id": "0.1.3",
       "releasedAt": 1793799804046,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "0.1.4",
+      "releasedAt": 1793831907433,
+      "updateType": "minor_breaking"
     }
   ]
 }

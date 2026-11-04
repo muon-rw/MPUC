@@ -1,0 +1,15 @@
+- Improved world startup times by ~15s
+- Reduced memory usage by ~1gb
+- Reduced some FPS drop from right after joining a new world. (Note, some of this is JEI and Streams Reflowing and regular worldgen, and is a bit unavoidable)
+- Fix "Customize" button during world creation causing a deadlock with worldgen
+- Disabled all bushy leaves models
+- Fix invisible hanging signs
+- Fix upright beds
+
+## Mod changes
+
+### Updated
+- [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel): 1.3.1 to 1.3.2
+- [JAWR: Forbidden Magic](https://www.curseforge.com/minecraft/mc-mods/jawr-forbidden-magic): 0.5.28 to 0.5.37
+- [Just Another Witchery Remake](https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake): 0.5.36 to 0.5.38
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.1.3 to 0.1.4

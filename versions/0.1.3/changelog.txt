@@ -1,0 +1,21 @@
+- Large villages will no longer place on the sides of mountains
+- Fixed most structure overlaps
+- Fix passive mobs spawning as champions
+- Fix small origins having their attack range reduced
+- Innate weapon skills are no longer restricted by class
+- Disabled Burnt geyser+hot spring generation
+- Fix z-fighting/model clipping with some helmets
+- Fix several keybind conflicts introduced by Icy's Better Horses
+- Fix a keybind conflict causing Druid wildshape to be unusable (and any other cantrip_three key abilities)
+
+## Mod changes
+
+### Added
+- [HT's TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop)
+- [Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement)
+
+### Updated
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.1.4 to 0.1.5
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks): 3.26.19.2243 to 3.26.20.2244
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 1.5.25.2451 to 1.5.28.2458
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 1.6.15.2219 to 1.6.16.2222

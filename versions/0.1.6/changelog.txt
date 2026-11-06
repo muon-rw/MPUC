@@ -1,0 +1,31 @@
+- Fix an occasional crash when slaying Valoria entities
+- More improvements to baseline performance/fps (thanks IriDark!) 
+- Fix duplicate lanterns rendering when equipping a vanilla lantern in the belt slot
+- Equipping clocks/lanterns/etc. no longer create additional accessory slots 
+- Capped the rebounding enchantment max level to III
+- Fix untranslated "Poppet" accessory slot
+- Fix summoned grizzly bears staying in attack frenzy forever even after their target was gone
+- Fix a crash on the dedicated server when using keepInventory and an accessory which changed the number of accessory slots
+- Fix crash when summoned zombies killed an enemy
+- Fix transformed vampire players not being able to feed on or transfix villagers due to a conflict with RPG Dialogue
+- Fix an infinite coin exploit with certain Iron's Spellbooks trades
+- Also uppdated coin trades for Archers, Witchery, Valoria, Swamill, Rogues, Butchery, and Iron's Jewelry
+
+## Mod changes
+
+### Added
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+
+### Updated
+- [Beltborne Lanterns](https://www.curseforge.com/minecraft/mc-mods/beltborne-lanterns): v1.2.5 to v1.2.6
+- [Beltborne Lanterns: Accessories Layer](https://www.curseforge.com/minecraft/mc-mods/beltborne-lanterns-accessories-layer): v1.2.2 to v1.2.3
+- [Clockwork](https://www.curseforge.com/minecraft/mc-mods/clockwork): 1.1.6 to 1.1.7
+- [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore): v2.13.52 to v2.13.53
+- [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist): 2.0.5 to 2.0.7
+- [Oh The Trees You'll Grow](https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow): 5.3.5 to 5.3.6
+- [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks): 0.4.0 to 0.4.1
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.1.6 to 0.1.8
+- [Raven's DnD Origins](https://www.curseforge.com/minecraft/mc-mods/ravens-dnd-origins): 0.2.1 to 0.2.2
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 1.5.28.2458 to 1.5.31.2460
+- [Tridot](https://www.curseforge.com/minecraft/mc-mods/tridot): 1.0.177.jar to 1.1.3
+- [Valoria](https://www.curseforge.com/minecraft/mc-mods/valoria): 1.1.0.7 to 1.1.1

@@ -1,0 +1,17 @@
+- Fix using certain spells during chapter 1 causing both key pieces to drop too early in the questline
+- Fix using certain spells to kill bosses failing to give quest task credit at all
+- Removed Netherite blocks from BetterNether city loot
+- Now only missing entries to your options.txt will be added each update, instead of resetting your keybinds every time
+- Updated the crash assistant config, logs will now paste to gnomebot
+- Lowered Dragon target search length 128 -> 48 blocks
+
+## Mod changes
+
+### Added
+- [Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults)
+
+### Updated
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective): 8.77 to 8.81
+- [Dungeons Delight](https://www.curseforge.com/minecraft/mc-mods/dungeons-delight): 1.5.1 to 1.5.2
+- [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks): 0.3.1 to 0.4.0
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.1.5 to 0.1.6

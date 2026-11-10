@@ -1,0 +1,7 @@
+- Fix one more (hopefully last!) stubborn cause of menu lag
+- *Note: Despite the warning, `0.2.0` and `0.2.1` servers and clients are compatible with each other. This is a client side only change!*
+
+## Mod changes
+
+### Updated
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.2.4 to 0.2.5

@@ -1,0 +1,89 @@
+Gameplay:
+- Fix "error"/"illegal" enchantments appearing in loot
+- Many fixes from Ice and Fire
+- Players can now jump into Supplementaries cannons. They also added a piñata
+- Fix deep aether structures and biomes not being locatable with the `/locate` command or the Eye of Brass
+- Many new copper items from vanilla backport
+- Fix spellbinding tables appearing in some Integrated Villages
+- Fix eyes from Mowzies Cataclysm and Cataclysm'Rise duplicating when thrown
+- Goblins, Hobgoblins, and Githyanki now see tooltips for which gear works for their bonuses
+- New armor set, sheathe, and 3 weapons from Discerning the Eldritch, and a new crafting material Starmetal found in end city treasure. 
+- Fix aptitudes (Strength, Dexterity, etc.) resetting to 1 on dimension change
+- Magic damage will now show its spell school color in damage numbers
+
+Balance:
+- Spell nerfs: Brimflame Bolt, Brimstone Hellblast, Holy Blast, Evercomet Barrage, Dazzling Obliteration, Spectral Hammer, Fortify
+- Nerfed the output of create gem/affix crushing
+- Lowered the spawn rates of void wanderers, wraiths, river golems, and wandering ribbits by 75%
+- Lowered the loot rate of ancient tomes by ~90%
+- Fix weapons with restricted enchantments dealing less damage than intended 
+- Max armor durability lost per hit 20% -> 5%
+
+Performance:
+- Lowered resolution of the main menu panorama, which fixes menu lag on older GPUs
+- Re-enabled JEI tooltip/tag search, which should no longer lag on every keystroke or lag on startup.
+- Disable JEI enchantment/armor trims/grindstone recipes, which were crowded. This also saves ~100MB of RAM. (Use Apoth's enchanting table menu or test in an anvil for enchantments)
+- Halved the performance impact of player rendering cost (Apoli/Origins)
+- Reduced allocation rate from various mods by ~80%, meaning less lagspikes on low-RAM systems
+- Fix a few mods' retained heap (again, low-RAM system improvements, mostly fewer spikes)
+- A few more targeted render thread patches, improving overall FPS modestly.
+(Mods tweaked for allocation/heap/cpu: FTB Chunks, Bathymetry, AAA particles, Iron's Spellbooks, Fancymenu, Create: GnK, Icy's Better Horses, JEI, Apoli, Biolith, Brewin n' Chewin, Lithostitched, VanillaBackport)
+- Pre-run all old-structure DFU upgrades, saves ~300mb of RAM
+- Evict old cached structure templates, helps RAM usage on very long game sessions
+- Enabled Modernfix RL and Climate Param deduplication. Adds a few seconds of startup time, lowers RAM by ~50mb
+
+## Mod changes
+
+### Added
+- [Slipstream](https://www.curseforge.com/minecraft/mc-mods/slipstream)
+
+### Updated
+- [Ace's Spell Utils](https://www.curseforge.com/minecraft/mc-mods/aces-spell-utils): 1.2.7.2 to 1.2.7.5
+- [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks): 1.1.14 to 1.1.16
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments): 2.1.11 to 2.2.7
+- [AzureLib](https://www.curseforge.com/minecraft/mc-mods/azurelib): 3.1.23-alpha.2 to 3.2.7
+- [Bathymetry](https://www.curseforge.com/minecraft/mc-mods/bathymetry): v1.0.2 to v1.0.4
+- [BCLib: New Dawn](https://www.curseforge.com/minecraft/mc-mods/bclib-neoforge): bclib-21.0.28 to BCLib-21.0.29
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective): 8.81 to 8.85
+- [Discerning The Eldritch](https://www.curseforge.com/minecraft/mc-mods/discerning-the-eldritch): 1.4.4 to 1.4.5
+- [EMF Compat: Better Combat](https://www.curseforge.com/minecraft/mc-mods/emf-compat-better-combat): 2.1.1 to 2.1.2
+- [EMF Compat: Carry On](https://www.curseforge.com/minecraft/mc-mods/emf-compat-carry-on): 2.1.1 to 2.2.0
+- [EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core): 2.3.2 to 2.4.0
+- [EMF Compat: Create](https://www.curseforge.com/minecraft/mc-mods/emf-compat-create): 2.1.0 to 2.1.1
+- [EMF Compat: Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/emf-compat-irons-spells-n-spellbooks): 2.1.0 to 2.1.2
+- [EMF Compat: Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/emf-compat-not-enough-animations): 1.2.1 to 1.2.2
+- [EMF Compat: Quark](https://www.curseforge.com/minecraft/mc-mods/emf-compat-quark): 1.21.1_1.1.0 to neoforge_1.21.1_1.1.1
+- [EMF Compat: Supplementaries](https://www.curseforge.com/minecraft/mc-mods/emf-compat-supplementaries): 1.1.1 to 1.1.2
+- [FTB Quests Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization): 1.12.1 to 1.13.0
+- [IceAndFire Community Edition](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce): iceandfire-2.1.3 to IceAndFireCE-2.2-1.21.1-neoforge
+- [Just Another Witchery Remake](https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake): 0.5.38 to 0.5.39
+- [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei): 19.64.0.455 to 19.70.0.469
+- [Kobolds!](https://www.curseforge.com/minecraft/mc-mods/kobolds): V4.0.1 to V4.0.2
+- [Living Wind](https://www.curseforge.com/minecraft/mc-mods/living-wind): v1.3.8 to v1.4.0
+- [MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig): 0.6.8 to 0.6.11
+- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene): 3.7.2 to 3.8.3
+- [Optimized Block Entities](https://www.curseforge.com/minecraft/mc-mods/obe): 1.2.0 to 1.2.1-patch.1
+- [Overgrown's Apoli](https://www.curseforge.com/minecraft/mc-mods/apoli): (1.90 to (1.129
+- [Overgrown's Origins](https://www.curseforge.com/minecraft/mc-mods/o-origins): (1.41 to (1.52
+- [Platform](https://www.curseforge.com/minecraft/mc-mods/platform): 1.3.3 to 1.4.2
+- [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy): 2.7e to 3.2
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.1.8 to 0.2.4
+- [Raven's Apoth](https://www.curseforge.com/minecraft/mc-mods/ravens-apoth): 0.1.0 to 0.1.1
+- [Raven's DnD Origins](https://www.curseforge.com/minecraft/mc-mods/ravens-dnd-origins): 0.2.2 to 0.2.4
+- [RPG Dialogue](https://www.curseforge.com/minecraft/mc-mods/rpg-dialogue): 1.0.14 to 1.1.1
+- [RPG Villagers](https://www.curseforge.com/minecraft/mc-mods/rpg-villagers): 1.2 to 1.3
+- [ShatterLib | OctoLib](https://www.curseforge.com/minecraft/mc-mods/shatterbyte-lib): 0.6.2 to 0.6.3
+- [Sodium/Embeddium Leaf Culling](https://www.curseforge.com/minecraft/mc-mods/se-leafculling): 4.0.2 to 4.2.0
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks): 3.26.20.2244 to 3.26.21.2249
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 1.5.31.2460 to 1.5.32.2464
+- [Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing): 2.16.2 to 2.17.1
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): 3.9.9 to 4.0.2
+- [Tooltip Overhaul](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul): 2.0.7 to 2.1.0
+- [Valoria](https://www.curseforge.com/minecraft/mc-mods/valoria): Valoria-1.21.1-1.1.1 to Valoria-1.21.1-1.1.1.1
+- [Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat): 2.2 to 2.3
+- [Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport): 1.1.7.10 to 1.2.2
+- [Village Spawn Point](https://www.curseforge.com/minecraft/mc-mods/village-spawn-point): 4.6 to 6.1
+- [WorldWeaver: New Dawn](https://www.curseforge.com/minecraft/mc-mods/worldweaver-neoforge): 21.0.30 to 21.0.31
+
+### Removed
+- [JEI Trim Hider](https://www.curseforge.com/minecraft/mc-mods/jei-trim-hider)

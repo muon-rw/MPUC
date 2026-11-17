@@ -1,0 +1,88 @@
+### Gameplay
+- A new animated fantasy HUD. Integration with temperature, thirst, vampirism, bandages, potions, and food! 
+- Artificers have received a **total rework**! 
+- **New abilities**: Tool Mastery, Flash of Genius
+- - **Armorer**: Guardian Mode / Infiltrator Mode, Defensive Field / Lightning Launcher, Perfected Armor
+- - **Artillerist**: Eldritch Cannon (modes: Force Ballista, Flamethrower or Protector), Explosive Cannon, Arcane Firearm, Fortified Position
+- - **Battle Smith**: Steel Defender (metal doggy), Arcane Jolt. Other stat boots
+- - **Alchemist**: New preset elixirs added to choose from via a radial menu, and more buffs from chemical masteries
+- Added a few new Draconic Ancestries, and each ancestry now maps onto one spell school. 
+- - Ancestries now grant school access on top of the existing spell power bonus
+- - Changed some Dragonborn elemental breath attacks and spell power bonuses to line up with these Sorcerer changes
+- Removed enchantment restrictions. Totally gone! 
+- Reduced the fire spread factor for logs and leaves, so forest fires will get out of control less often. 
+- Added Legendary Survival Overhaul's purified water as a liquid for the purposes of Create and Sophisticated Backpacks
+- Added Ice Spider Dens to the structure regen list
+- Taiga biomes now require much more leaves nearby to play huge echoey forest floor ambience tracks
+- All players can see repair materials on item tooltips now, not just artificers
+- Lowered the spawn rate of Aquamirae anglerfish and maws
+- Bandage healing per second increased from 0.1 -> 0.5
+- Removed cataclysm's cursed pyramid from overlap prevention, to make it more common
+- Nerfed the damage boost from Sharpshooter by about 50%. Velocity unchanged
+- Sharpshooter progress now scales with draw speed. 
+
+### Fixes
+- Fix Might/Power enchantments not working when using custom arrows. 
+- Fix Endless Quiver not working on certain bows, or for Archery spells
+- Fix disabled enchantments still appearing in Apotheosis' enchanting table (this fixes enchanted books and items disappearing after you enchant them) 
+- Fix campfires only healing 1 player at a time
+- Fix Wildshape not working properly on dedicated servers
+- Fix Butchery meat not being usable in Farmer's Delight recipes
+- Fix Errored gem in the Nexus chest
+- Fix Ch.6 questbook showing the wrong recipe for Obsidian Mirror
+- Fix Ch.5 dragon rewards having items that didn't exist
+- Fix duplicate music tracks playing in the nether
+- Improved FPS when a wildshaped player was on screen
+- Base stone from quark, regions unexplored, aether, deep aether, bwg, yung's cave biomes and betterend is now mineable with spectral hammer
+
+## Mod changes
+
+### Added
+- [Dynamic RPG Resource Bars](https://www.curseforge.com/minecraft/mc-mods/dynamic-rpg-resource-bars)
+- [SafeGeodes](https://www.curseforge.com/minecraft/mc-mods/safegeodes)
+
+### Updated
+- [AzureLib](https://www.curseforge.com/minecraft/mc-mods/azurelib): 3.2.7 to 3.2.8
+- [Beltborne Lanterns](https://www.curseforge.com/minecraft/mc-mods/beltborne-lanterns): v1.2.6 to v1.2.7
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective): 8.85 to 8.87
+- [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore): v2.13.53 to v2.13.54
+- [Dark Doppelganger : Iron's Spells and Spellbooks Addon](https://www.curseforge.com/minecraft/mc-mods/dark-doppelganger): 4.1.1 to 4.4.0
+- [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors): 3.3.2 to 3.3.3
+- [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling): 1.11.3 to 1.12.1
+- [Fancy World Animations](https://www.curseforge.com/minecraft/mc-mods/fwa): 1.3.4 to 1.3.7
+- [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge): 2101.1.23 to 2101.1.24
+- [FTB Library (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge): 2101.1.39 to 2101.1.40
+- [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge): 2101.1.38 to 2101.1.39
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum): 3.3.6 to 3.3.7
+- [Health Bars](https://www.curseforge.com/minecraft/mc-mods/health-bars): [NEOFORGE] [1.21.1] HealthBars-v21.1.0 to v21.1.1-mc1.21.1+neoforge
+- [Immersive Melodies](https://www.curseforge.com/minecraft/mc-mods/immersive-melodies): 0.8.2 to 0.8.4
+- [IronSable](https://www.curseforge.com/minecraft/mc-mods/ironsable): 1.2.1 to 1.2.2
+- [Kerria](https://www.curseforge.com/minecraft/mc-mods/kerria): 1.3.2 to 1.4.0
+- [Living Wind](https://www.curseforge.com/minecraft/mc-mods/living-wind): v1.4.0 to v1.4.0.1
+- [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations): 4.7 to 4.9
+- [Modonomicon](https://www.curseforge.com/minecraft/mc-mods/modonomicon): 1.123.0 to 1.123.1
+- [Optimized Block Entities](https://www.curseforge.com/minecraft/mc-mods/obe): 1.2.1-patch.1 to 1.2.9
+- [Overgrown's Apoli](https://www.curseforge.com/minecraft/mc-mods/apoli): (1.129 to (1.132
+- [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy): 3.2 to 3.2a
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.2.5 to 0.3.1
+- [Raven's Apoth](https://www.curseforge.com/minecraft/mc-mods/ravens-apoth): 0.1.1 to 0.1.2
+- [Raven's DnD Origins](https://www.curseforge.com/minecraft/mc-mods/ravens-dnd-origins): 0.2.4 to 0.3.0
+- [Reliable Recipes](https://www.curseforge.com/minecraft/mc-mods/reliable-recipes): 3.8.3 to 3.9.0
+- [Reliable Remover](https://www.curseforge.com/minecraft/mc-mods/reliable-remover): 3.8.4 to 3.9.2
+- [RPG Dialogue](https://www.curseforge.com/minecraft/mc-mods/rpg-dialogue): 1.1.1 to 1.1.3
+- [RPG Villagers](https://www.curseforge.com/minecraft/mc-mods/rpg-villagers): 1.3.0 to 1.3.1
+- [ShatterLib | OctoLib](https://www.curseforge.com/minecraft/mc-mods/shatterbyte-lib): 0.6.3 to 0.6.3.2
+- [Sodium/Embeddium Leaf Culling](https://www.curseforge.com/minecraft/mc-mods/se-leafculling): 4.2 to 4.3
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 1.5.32.2464 to 1.5.38.2484
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 1.6.16.2222 to 1.6.19.2234
+- [Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing): 2.17.1 to 2.17.5
+- [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer): v1.0.12 to v1.0.13
+- [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects): 1.15.1 to 1.15.2
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): 4.0 to 4.1
+- [Tridot](https://www.curseforge.com/minecraft/mc-mods/tridot): 1.1.3 to 1.1.5
+- [Valoria](https://www.curseforge.com/minecraft/mc-mods/valoria): 1.1.1.1 to 1.1.2
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones): 21.1.46 to 21.1.47
+
+### Removed
+- [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars)
+- [Wandering Ribbit](https://www.curseforge.com/minecraft/mc-mods/wandering-ribbit)

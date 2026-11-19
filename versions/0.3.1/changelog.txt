@@ -1,0 +1,37 @@
+- Changed Armorer spell access to #defensive, #control, #utility, @lightning (no more innate martial skills - you'll need the feat!)
+- Fix sharpshooter nerf from 0.3.0 not applying to most bow types
+- Disabled enchantments now (really) won't appear in the enchanting table.
+- Items with disabled enchantments will now have only that enchantment removed, instead of the entire item
+- New cantrips for sorcerers specific to their draconic ancestry
+- Buffed warlock's eldritch blast cantrip
+- Further reduced anglerfish/maw spawn rate
+- Fix broken rendering of RPG Series gear on the Dark Doppelganger
+- Fix the dark doppelganger being much stronger than intended due to a recent update with the mod
+- Add enchantment descriptions to books, and shift-to-show-ench-descriptions on gear
+- Disable quark's enchantment applicability tooltip icons
+- Fix a crash when offhanding an item if you disabled the custom HUD
+
+## Mod changes
+
+### Added
+- [ScrollShelf - Iron's Spells 'n Spellbooks Addon](https://www.curseforge.com/minecraft/mc-mods/scrollshelf)
+
+### Updated
+- [Alshanex's Familiars](https://www.curseforge.com/minecraft/mc-mods/alshanexs-familiars): v5.0 to v5.1
+- [Complementary Shaders - Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound): r5.9.3 to r5.10
+- [Dynamic RPG Resource Bars](https://www.curseforge.com/minecraft/mc-mods/dynamic-rpg-resource-bars): 1.0.0 to 1.0.2
+- [Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches): 1.10.5-r5.9.3 to 1.11.1-r5.10
+- [FamiliarsLib](https://www.curseforge.com/minecraft/mc-mods/familiarslib): 2.0 to 2.1
+- [Fancy World Animations](https://www.curseforge.com/minecraft/mc-mods/fwa): 1.3.7 to 1.3.7-patch.2
+- [Raven Core](https://www.curseforge.com/minecraft/mc-mods/raven-core): 0.3.1 to 0.3.2
+- [Raven's DnD Origins](https://www.curseforge.com/minecraft/mc-mods/ravens-dnd-origins): 0.3.0 to 0.3.1
+- [Reliable Remover](https://www.curseforge.com/minecraft/mc-mods/reliable-remover): 3.9.2 to 3.9.3
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks): 3.26.21.2249 to 3.26.22.2257
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 1.5.38.2484 to 1.5.39.2489
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 1.6.19.2234 to 1.6.20.2239
+- [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects): 1.15.2 to 1.15.3
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): 4.1.2 to 4.1.3
+- [Valoria](https://www.curseforge.com/minecraft/mc-mods/valoria): 1.1.2 to 1.1.3
+
+### Removed
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
